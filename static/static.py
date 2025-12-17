@@ -1,4 +1,6 @@
-# static.py
+HTML = """
+Don’t care about them allCause all I want is to be lovedAnd all I care about is youYou’re stuck on me like a tattooNo, I don’t care about the painI’ll walk through fire and through rain
+"""
 
 HTML = """
 <!DOCTYPE html>
